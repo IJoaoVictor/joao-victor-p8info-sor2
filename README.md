@@ -1,2 +1,2 @@
-# joao-victor-p8info-sor2
-Repositório de Atividades da Disciplina de SOR II
+# Repositório de SOR II
+Repositório de Atividades da Disciplina de Sistemas Operacionais de Redes II
